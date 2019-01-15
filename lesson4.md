@@ -57,3 +57,4 @@
     -   Complete absorbtion in a tack
     -   Strength
     -   Alertness
+    -   Effortless control
