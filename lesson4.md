@@ -52,3 +52,8 @@
     -   Playing to strengths
     -   Being Challenged
     -   Hyper Awareness
+-   Gives you a sense of:
+    -   Timelessness
+    -   Complete absorbtion in a tack
+    -   Strength
+    -   Alertness
