@@ -44,3 +44,11 @@
     -   Give up easier
     -   Believes lives will never change
     -   Demands we weigh decisions
+
+#### Flow
+
+-   So involved in an activity that you are hyper-focused on a task.
+-   Things that need to happen for flow to occur:
+    -   Playing to strengths
+    -   Being Challenged
+    -   Hyper Awareness
