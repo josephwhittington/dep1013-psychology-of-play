@@ -27,3 +27,8 @@
     -   Can be a critical factor in obesity metrics
 -   The absence of stress can can a positive effect of society
 -   This movie seems boring
+-   Possible antidote could be finding a place where we have control
+
+##### Assignments
+
+-   Watch inspirational videos and respond to like 3 people.
