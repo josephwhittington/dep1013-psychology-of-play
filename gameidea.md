@@ -1,4 +1,4 @@
-### Game - Night Drop
+# Game - Night Drop
 
 ## Description
 
@@ -30,4 +30,8 @@
 -   Iterated through game titles
 -   Determined certain aspects of the game through collaboration
 -   Discussed technologies
--
+
+## Team Goals
+
+-   Build a fun, marketable game and get it funded by a publisher
+-   Make the game fun
